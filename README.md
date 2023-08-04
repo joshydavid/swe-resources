@@ -19,7 +19,7 @@ Resources to becoming a better engineer, and for development purposes.
 * [Chakra UI](https://chakra-ui.com/docs/components)
 * [Tailwind CSS](https://tailwindcss.com)
 * [SGDS](https://designsystem.tech.gov.sg/components/)
-* [Dashboard](https://www.tremor.so)
+* [Tremor](https://www.tremor.so)
 
 ## Others
 * [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
