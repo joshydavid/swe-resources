@@ -11,6 +11,8 @@ Resources to becoming a better engineer, and for development purposes.
 
 ## Clean Code
 * [Clean Code in TypeScript](https://medium.com/javascript-in-plain-english/clean-code-in-typescript-a183d43f3bf0)
+* [Clean Up Code Smells with Clean Code](https://blog.bitsrc.io/what-are-code-smells-and-how-clean-code-can-help-typescript-version-990697a87f46)
+* [Things you should look for in a Code Review](https://levelup.gitconnected.com/things-you-should-look-for-in-a-code-review-e1b063f3d1a8)
 
 ## React
 * [React](https://react.dev)
