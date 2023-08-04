@@ -24,4 +24,3 @@ Resources to becoming a better engineer, and for development purposes.
 
 ## Others
 * [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
-* [Undraw](https://undraw.co/illustrations)
