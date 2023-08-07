@@ -1,4 +1,6 @@
 # 🚀 Software Engineering Resources
+![PR](https://img.shields.io/github/issues-pr/joshuadavidang/swe-resources)
+
 Resources to becoming a better engineer, and for development purposes.
 
 ## Tech Interview Preparation
