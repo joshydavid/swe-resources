@@ -27,4 +27,5 @@ Resources to becoming a better engineer, and for development purposes.
 * [Tremor](https://www.tremor.so)
 
 ## Others
+* [Git Commands Every Software Engineer Should Know](https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly/)
 * [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
