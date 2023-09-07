@@ -9,6 +9,11 @@ Resources to becoming a better engineer, and for development purposes.
 - [NeetCode](https://neetcode.io/roadmap)
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
 - [LeetCode](https://leetcode.com/joshdavidang/)
+- [Top 50 Array Problems](https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/)
+- [Top 50 String Problems](https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/)
+- [Top 50 Dynamic Programming Problems](https://www.geeksforgeeks.org/top-50-dynamic-programming-coding-problems-for-interviews/)
+- [Top 50 Stack Problems](https://www.geeksforgeeks.org/top-50-problems-on-stack-data-structure-asked-in-interviews/)
+- [Top 50 Recursion Problems](https://www.geeksforgeeks.org/top-50-interview-problems-on-recursion-algorithm/)
 - [Behavioral Interview](https://www.techinterviewhandbook.org/behavioral-interview/)
 - [Tech Offers](https://app.techinterviewhandbook.org/offers)
 - [How to have a Successful Software Engineering Internship](https://www.yangshuntay.com/blog/how-to-have-successful-software-engineering-internship)
@@ -21,6 +26,7 @@ Resources to becoming a better engineer, and for development purposes.
 
 ## React
 
+- [Vite](https://vitejs.dev)
 - [React](https://react.dev)
 - [Next](https://nextjs.org/docs)
 
@@ -30,6 +36,10 @@ Resources to becoming a better engineer, and for development purposes.
 - [Tailwind CSS](https://tailwindcss.com)
 - [SGDS](https://designsystem.tech.gov.sg/components/)
 - [Tremor](https://www.tremor.so)
+
+## Database
+- [Supbase](https://supabase.com)
+- [MongoDB](https://www.mongodb.com)
 
 ## Others
 
