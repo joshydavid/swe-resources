@@ -38,7 +38,7 @@ Resources to becoming a better engineer, and for development purposes.
 - [Tremor](https://www.tremor.so)
 
 ## Database
-- [Supbase](https://supabase.com)
+- [Supabase](https://supabase.com)
 - [MongoDB](https://www.mongodb.com)
 
 ## Others
