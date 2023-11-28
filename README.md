@@ -41,7 +41,8 @@ Resources to becoming a better engineer, and for development purposes.
 - [Supabase](https://supabase.com)
 - [MongoDB](https://www.mongodb.com)
 
-## Others
+## Read
 
 - [Git Commands Every Software Engineer Should Know](https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly/)
 - [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
+- [10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
