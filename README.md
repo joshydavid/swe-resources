@@ -23,6 +23,8 @@ Resources to becoming a better engineer, and for development purposes.
 - [Clean Code in TypeScript](https://medium.com/javascript-in-plain-english/clean-code-in-typescript-a183d43f3bf0)
 - [Clean Up Code Smells with Clean Code](https://blog.bitsrc.io/what-are-code-smells-and-how-clean-code-can-help-typescript-version-990697a87f46)
 - [Things you should look for in a Code Review](https://levelup.gitconnected.com/things-you-should-look-for-in-a-code-review-e1b063f3d1a8)
+- [10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
+- [TypeScript Best Practices: Writing Clean and Modern Code](https://medium.com/stackademic/typescript-best-practices-writing-clean-and-modern-code-a04196310e4d)
 
 ## React
 
@@ -32,10 +34,14 @@ Resources to becoming a better engineer, and for development purposes.
 
 ## CSS Framework/Library
 
+- [Headless UI](https://headlessui.com)
 - [Chakra UI](https://chakra-ui.com/docs/components)
 - [Tailwind CSS](https://tailwindcss.com)
 - [SGDS](https://designsystem.tech.gov.sg/components/)
 - [Tremor](https://www.tremor.so)
+
+## Animation
+- [Framer](https://www.framer.com/motion/)
 
 ## Database
 - [Supabase](https://supabase.com)
@@ -45,4 +51,4 @@ Resources to becoming a better engineer, and for development purposes.
 
 - [Git Commands Every Software Engineer Should Know](https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly/)
 - [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
-- [10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
+- [Linting Git Commit Messages Using Husky: A Guide to Cleaner Version Control](https://medium.com/@sijokoothur/linting-git-commit-messages-using-husky-a-guide-to-cleaner-version-control-2ac37605433a)
