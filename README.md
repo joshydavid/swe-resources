@@ -30,6 +30,7 @@ Resources to becoming a better engineer, and for development purposes.
 - [Next](https://nextjs.org/docs)
 
 ## CSS Framework/Library 🎨
+- [Shadcn](https://ui.shadcn.com)
 - [Headless UI](https://headlessui.com)
 - [Chakra UI](https://chakra-ui.com/docs/components)
 - [Tailwind CSS](https://tailwindcss.com)
