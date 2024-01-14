@@ -40,9 +40,11 @@ Resources to becoming a better engineer, and for development purposes.
 ## Animation ⚡️
 - [Framer](https://www.framer.com/motion/)
 
-## Database 💿
+## Database / ORM 💿
 - [Supabase](https://supabase.com)
 - [MongoDB](https://www.mongodb.com)
+- [PostgreSQL](https://www.postgresql.org)
+- [TypeORM](https://typeorm.io)
 
 ## Read 📚
 - [Agile Playbook](https://docs.developer.tech.gov.sg/docs/agile-playbook/)
