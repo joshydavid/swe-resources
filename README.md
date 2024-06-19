@@ -18,16 +18,21 @@ Resources to becoming a better engineer, and for development purposes.
 - [How to have a Successful Software Engineering Internship](https://www.yangshuntay.com/blog/how-to-have-successful-software-engineering-internship)
 
 ## Clean Code 🧼
+- [Refactoring.Guru](https://refactoring.guru)
 - [Clean Code in TypeScript](https://medium.com/javascript-in-plain-english/clean-code-in-typescript-a183d43f3bf0)
 - [Clean Up Code Smells with Clean Code](https://blog.bitsrc.io/what-are-code-smells-and-how-clean-code-can-help-typescript-version-990697a87f46)
 - [Things you should look for in a Code Review](https://levelup.gitconnected.com/things-you-should-look-for-in-a-code-review-e1b063f3d1a8)
 - [10 Best Practices in Front-end Development (React)](https://medium.com/@renanolovics/10-best-practices-in-front-end-development-react-5277a671e2df)
 - [TypeScript Best Practices: Writing Clean and Modern Code](https://medium.com/stackademic/typescript-best-practices-writing-clean-and-modern-code-a04196310e4d)
 
-## React 👨🏻‍💻
+## Frontend (React) 👨🏻‍💻
 - [Vite](https://vitejs.dev)
 - [React](https://react.dev)
 - [Next](https://nextjs.org/docs)
+
+## Backend 🖱️
+- [KoaJS](https://koajs.com/)
+- [NestJS](https://nestjs.com/)
 
 ## CSS Framework/Library 🎨
 - [Shadcn](https://ui.shadcn.com)
@@ -45,6 +50,9 @@ Resources to becoming a better engineer, and for development purposes.
 - [MongoDB](https://www.mongodb.com)
 - [PostgreSQL](https://www.postgresql.org)
 - [TypeORM](https://typeorm.io)
+
+## API
+- [REST API Best Practice](https://restfulapi.net/resource-naming/)
 
 ## Read 📚
 - [Agile Playbook](https://docs.developer.tech.gov.sg/docs/agile-playbook/)
