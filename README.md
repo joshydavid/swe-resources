@@ -60,3 +60,5 @@ Resources to becoming a better engineer, and for development purposes.
 - [Git Commands Every Software Engineer Should Know](https://www.jointaro.com/blog/git-commands-every-engineer-should-know-stop-using-version-control-incorrectly/)
 - [Semantic Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/#summary)
 - [Linting Git Commit Messages Using Husky: A Guide to Cleaner Version Control](https://medium.com/@sijokoothur/linting-git-commit-messages-using-husky-a-guide-to-cleaner-version-control-2ac37605433a)
+- [System Design](https://github.com/ByteByteGoHq/system-design-101)
+- [Roadmap](https://roadmap.sh/)
