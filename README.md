@@ -4,6 +4,9 @@
 
 Resources to becoming a better software engineer.
 
+## 💡 Resume
+- [Resume Worded](https://resumeworded.com)
+
 ## 🔥 Tech Interview Preparation
 - [AlgoMap](https://algomap.io)
 - [NeetCode](https://neetcode.io/roadmap)
