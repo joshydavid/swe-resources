@@ -35,7 +35,3 @@ Resources to becoming a better software engineer.
 - [Linting Git Commit Messages Using Husky: A Guide to Cleaner Version Control](https://medium.com/@sijokoothur/linting-git-commit-messages-using-husky-a-guide-to-cleaner-version-control-2ac37605433a)
 - [System Design](https://github.com/ByteByteGoHq/system-design-101)
 - [Roadmap](https://roadmap.sh/)
-
-## 🐧 Contact
-
-Feel free to reach out on LinkedIn [here](https://www.linkedin.com/in/joshydavid/)
