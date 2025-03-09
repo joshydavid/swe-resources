@@ -8,6 +8,7 @@ Resources to becoming a better software engineer.
 - [Resume Worded](https://resumeworded.com)
 
 ## 🔥 Tech Interview Preparation
+- [Study Guide](https://interviews.woojiahao.com)
 - [AlgoMap](https://algomap.io)
 - [NeetCode](https://neetcode.io/roadmap)
 - [Grind 75](https://www.techinterviewhandbook.org/grind75)
